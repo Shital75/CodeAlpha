@@ -1,0 +1,7 @@
+Stock Portfolio Summary
+-----------------------
+AAPL - Qty: 2, Price: $180, Total: $360
+TSLA - Qty: 1, Price: $250, Total: $250
+MSFT - Qty: 3, Price: $320, Total: $960
+
+Total Investment Value: $1570
